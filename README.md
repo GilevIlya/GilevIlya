@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Connect With Me
-- 💬 Telegram: **@D0vaakhiinn**
+- 💬 Telegram: **https://t.me/D0vaakhiinn**
 
 ---
 
