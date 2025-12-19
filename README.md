@@ -2,8 +2,9 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=There%27s+nothing+better+than+the+freedom+to+try,+fail,+and+grow+stronger.&center=true&width=600&height=45&color=2E8B57&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=There%27s+nothing+better+than+the+freedom+to+try,%0Afail+and+grow+stronger.&center=true&width=600&height=60&color=2E8B57&vCenter=true&size=22&pause=1500">
 </p>
+
 
 
 ---
