@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXgwZjJ3d2ZqazVlajVyMXNvYTV5OHBibG05bnJ0Y2N0cTFjaDNrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXENoAcdN/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM1dWlqODJmYmRlNWRjMzFhbmFmdmhhcWd1cHZqeTk3dGx6Y3NiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Ilya Gilev</h1>
 <h3 align="center">Backend Developer | Python | FastAPI | PostgreSQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+robust+APIs;Python+enthusiast;FastAPI+fan;Database+wizard&center=true&width=600&height=45&color=00ff00&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+robust+APIs;Python+enthusiast;FastAPI+fan;Database+wizard&center=true&width=600&height=45&color=2E8B57&vCenter=true&size=22">
 </p>
 
 ---
@@ -15,7 +15,8 @@
 - 🔭 Currently working on: **backend systems and API development**
 - 🌱 Learning: **advanced system design, async programming, cloud technologies**
 - 💻 Passionate about: **clean architecture, scalable systems, and efficient databases**
-- ⚡ Fun fact: **I can debug while half asleep (tested and proven)**
+- ⚡ Fun fact: **I enjoy debugging complex issues - it's like solving puzzles**
+- ☕ Fuel: **Coffee and green tea**
 
 ---
 
@@ -23,36 +24,37 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,nginx,aws" />
 </p>
+<sub>*PostgreSQL is my happy place*</sub>
 
 ---
 
 ### 📌 Featured Projects
 - 🔐 **Authentication Microservice**  
   JWT with refresh tokens, Redis for session management, secure cookie handling
+  <br>
+  <sub>*Spent a week optimizing token refresh flow*</sub>
 
 - 📊 **Analytics API**  
   FastAPI + SQLAlchemy + PostgreSQL with complex queries and aggregation
+  <br>
+  <sub>*Learned to love window functions*</sub>
 
 - 🐳 **Containerized Backend**  
   Full Docker setup with Compose, deployed on cloud infrastructure
+  <br>
+  <sub>*Dockerfiles are my new config files*</sub>
 
-- ⚡ **High-load Service**  
-  Async endpoints, connection pooling, and performance optimizations
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilevIlya&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilevIlya&layout=compact&theme=tokyonight" />
-</p>
+- ⚡ **Async Message Queue**  
+  Redis + background tasks for processing
+  <br>
+  <sub>*Because sometimes sync just won't cut it*</sub>
 
 ---
 
-### 🔥 Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+### 📚 Currently Reading
+- "Designing Data-Intensive Applications" by Martin Kleppmann
+- FastAPI documentation (yes, again)
+- Various tech blogs about system design
 
 ---
 
@@ -61,6 +63,12 @@
 - 📧 Email: **your.email@example.com**
 - 💬 Telegram: **@yourusername**
 
+---
+
 <p align="center">
-  <i>Open to interesting backend opportunities and collaborations!</i>
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GilevIlya&color=green&style=flat" alt="Profile views" />
 </p>
