@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Ilya Gilev</h1>
-<h3 align="center">Backend Developer | Python | FastAPI | PostgreSQL</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+robust+APIs;Python+enthusiast;FastAPI+fan;Database+wizard&center=true&width=600&height=45&color=2E8B57&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Greetings&center=true&width=600&height=45&color=2E8B57&vCenter=true&size=22">
 </p>
 
 ---
@@ -23,22 +23,12 @@
 
 ---
 
-### 📌 Featured Projects
-- 🔐 **Authentication Microservice**  
-  JWT with refresh tokens, Redis for session management, secure cookie handling  
-  <sub>*Spent a week optimizing token refresh flow*</sub>
-
-- 📊 **Analytics API**  
-  FastAPI + SQLAlchemy + PostgreSQL with complex queries and aggregation  
-  <sub>*Learned to love window functions*</sub>
-
-- 🐳 **Containerized Backend**  
-  Full Docker setup with Compose, deployed on cloud infrastructure  
-  <sub>*Dockerfiles are my new config files*</sub>
-
-- ⚡ **Async Message Queue**  
-  Redis + background tasks for processing  
-  <sub>*Because sometimes sync just won't cut it*</sub>
+### 🧠 What I Work With
+- Authentication & authorization (JWT, cookies, OAuth basics)
+- REST APIs with FastAPI
+- Async Python & background tasks
+- PostgreSQL performance & query optimization
+- Docker & containerized deploymen
 
 ---
 
