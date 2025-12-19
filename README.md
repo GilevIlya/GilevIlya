@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM1dWlqODJmYmRlNWRjMzFhbmFmdmhhcWd1cHZqeTk3dGx6Y3NiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">Hey there 👋, I'm Ilya Gilev</h1>
 <h3 align="center">Backend Developer | Python | FastAPI | PostgreSQL</h3>
 
@@ -15,8 +11,7 @@
 - 🔭 Currently working on: **backend systems and API development**
 - 🌱 Learning: **advanced system design, async programming, cloud technologies**
 - 💻 Passionate about: **clean architecture, scalable systems, and efficient databases**
-- ⚡ Fun fact: **I enjoy debugging complex issues - it's like solving puzzles**
-- ☕ Fuel: **Coffee and green tea**
+- ⚡ Fun fact: **I enjoy debugging complex issues — it's like solving puzzles**
 
 ---
 
@@ -30,31 +25,20 @@
 
 ### 📌 Featured Projects
 - 🔐 **Authentication Microservice**  
-  JWT with refresh tokens, Redis for session management, secure cookie handling
-  <br>
+  JWT with refresh tokens, Redis for session management, secure cookie handling  
   <sub>*Spent a week optimizing token refresh flow*</sub>
 
 - 📊 **Analytics API**  
-  FastAPI + SQLAlchemy + PostgreSQL with complex queries and aggregation
-  <br>
+  FastAPI + SQLAlchemy + PostgreSQL with complex queries and aggregation  
   <sub>*Learned to love window functions*</sub>
 
 - 🐳 **Containerized Backend**  
-  Full Docker setup with Compose, deployed on cloud infrastructure
-  <br>
+  Full Docker setup with Compose, deployed on cloud infrastructure  
   <sub>*Dockerfiles are my new config files*</sub>
 
 - ⚡ **Async Message Queue**  
-  Redis + background tasks for processing
-  <br>
+  Redis + background tasks for processing  
   <sub>*Because sometimes sync just won't cut it*</sub>
-
----
-
-### 📚 Currently Reading
-- "Designing Data-Intensive Applications" by Martin Kleppmann
-- FastAPI documentation (yes, again)
-- Various tech blogs about system design
 
 ---
 
