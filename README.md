@@ -1,3 +1,7 @@
+<p align="center" style="background-color:#362115;padding:50px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Make+mistakes,+make+progress.&center=true&width=500&height=45&color=F5F5DC&size=22&pause=300">
+</p>
+
 <h1 align="center">Hey there 👋, I'm Ilya Gilev</h1>
 <h3 align="center">Backend Developer</h3>
 
