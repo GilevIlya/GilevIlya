@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Make+mistakes,+make+progress.&center=true&width=500&height=45&color=2E8B57&size=22&pause=300">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Make+mistakes,+make+progress.&center=true&width=500&height=45&color=#362115&size=22&pause=300">
 </p>
 
 ---
