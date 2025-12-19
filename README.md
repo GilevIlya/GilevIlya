@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Привет 👋, я Илья</h1>
+<h3 align="center">Backend Developer | FastAPI | PostgreSQL</h3>
 
-<!--
-**GilevIlya/GilevIlya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Обо мне
+- 🔭 Сейчас работаю над: **Backend проектом на FastAPI**
+- 🌱 Изучаю: **архитектуру, Docker, масштабирование**
+- 💻 Люблю: **чистый код и понятные API**
+- ♟️ 1 разряд по шахматам (да, это реально прокачивает логику)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Технологии
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,linux" />
+</p>
+
+---
+
+### 📌 Проекты
+- 🔐 **Auth Service** — JWT, refresh/access токены, cookies  
+- 📊 **Dashboard API** — FastAPI + SQLAlchemy + PostgreSQL  
+- 🐳 **Dockerized backend** — деплой на VPS  
+
+---
+
+### 📈 GitHub статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GilevIlya&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Связь
+- Telegram: **@твой_ник**
+- Email: **your@email.com**
