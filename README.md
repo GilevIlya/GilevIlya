@@ -16,9 +16,7 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,redis" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman,nginx,aws" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,redis,docker,linux,git,postman,nginx,aws" />
 </p>
 
 ---
