@@ -11,7 +11,7 @@
 - 🔭 Currently working on: **backend systems and API development**
 - 🌱 Learning: **advanced system design, async programming, cloud technologies**
 - 💻 Passionate about: **clean architecture, scalable systems, and efficient databases**
-- ⚡ Fun fact: **I enjoy debugging complex issues — it's like solving puzzles**
+- ⚡ Fun fact: **Official FIDE chess player**
 
 ---
 
@@ -19,28 +19,26 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,git,nginx,aws" />
 </p>
-<sub>*PostgreSQL is my happy place*</sub>
 
 ---
 
 ### 🧠 What I Work With
-- Authentication & authorization (JWT, cookies, OAuth basics)
 - REST APIs with FastAPI
-- Async Python & background tasks
-- PostgreSQL performance & query optimization
-- Docker & containerized deploymen
+- Business process automation
+- SQL & NoSQL databases
+- Docker & containerized deployment
+- Authentication & authorization
+- Async Python
 
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: **[your-linkedin]**
-- 📧 Email: **your.email@example.com**
-- 💬 Telegram: **@yourusername**
+- 💬 Telegram: **@D0vaakhiinn**
 
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+  <i>"Чем старше человек, тем больше ему лет" – Klichko</i>
 </p>
 
 <p align="center">
