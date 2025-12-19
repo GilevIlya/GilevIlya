@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x600/362115/362115.png" width="100%">
+  <!-- Фон на всю ширину -->
+  <img src="https://dummyimage.com/1200x600/5C4B3C/5C4B3C.png" width="100%">
 </p>
-
 <h1 align="center">Hey there 👋, I'm Ilya Gilev</h1>
 <h3 align="center">Backend Developer</h3>
 
