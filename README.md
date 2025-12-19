@@ -1,12 +1,4 @@
-<p align="center">
-  <svg width="500" height="60">
-    <text x="50%" y="100%" text-anchor="middle" font-size="24" fill="black">
-      Hey there 👋, I'm Ilya Gilev
-      <animate attributeName="y" from="100%" to="50%" dur="1s" fill="freeze" />
-    </text>
-  </svg>
-</p>
-
+<h1 align="center">Hey there 👋, I'm Ilya Gilev</h1>
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
