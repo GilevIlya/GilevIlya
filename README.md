@@ -1,8 +1,16 @@
-<h1 align="center">Hey there 👋, I'm Ilya Gilev</h1>
+<p align="center">
+  <svg width="500" height="60">
+    <text x="50%" y="100%" text-anchor="middle" font-size="24" fill="black">
+      Hey there 👋, I'm Ilya Gilev
+      <animate attributeName="y" from="100%" to="50%" dur="1s" fill="freeze" />
+    </text>
+  </svg>
+</p>
+
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://link-to-your-gif.gif" alt="Animated text" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Greetings&center=true&width=600&height=45&color=2E8B57&vCenter=true&size=22">
 </p>
 
 ---
