@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Greetings&center=true&width=600&height=45&color=2E8B57&vCenter=true&size=22">
+  <img src="https://link-to-your-gif.gif" alt="Animated text" />
 </p>
 
 ---
