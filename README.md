@@ -1,37 +1,50 @@
-<h1 align="center">Привет 👋, я Илья</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">Backend Developer | FastAPI | PostgreSQL</h3>
 
----
-
-### 🚀 Обо мне
-- 🔭 Сейчас работаю над: **Backend проектом на FastAPI**
-- 🌱 Изучаю: **архитектуру, Docker, масштабирование**
-- 💻 Люблю: **чистый код и понятные API**
-- ♟️ 1 разряд по шахматам (да, это реально прокачивает логику)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;FastAPI+Enjoyer;Building+Scalable+APIs;Clean+Architecture+Fan&center=true&width=600&height=45">
+</p>
 
 ---
 
-### 🛠️ Технологии
+### 🚀 About Me
+- 🔭 Currently working on: **Backend projects with FastAPI**
+- 🌱 Learning: **System design, Docker, scaling & performance**
+- 💻 Passionate about: **Clean code & well-designed APIs**
+- ♟️ Chess player (1st category) — strong logic & problem-solving
+
+---
+
+### 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,linux" />
 </p>
 
 ---
 
-### 📌 Проекты
-- 🔐 **Auth Service** — JWT, refresh/access токены, cookies  
-- 📊 **Dashboard API** — FastAPI + SQLAlchemy + PostgreSQL  
-- 🐳 **Dockerized backend** — деплой на VPS  
+### 📌 Featured Projects
+- 🔐 **Authentication Service**  
+  JWT (access & refresh tokens), cookies, secure auth flow
+
+- 📊 **Dashboard API**  
+  FastAPI + SQLAlchemy + PostgreSQL
+
+- 🐳 **Dockerized Backend**  
+  Fully containerized, deployed on VPS
 
 ---
 
-### 📈 GitHub статистика
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GilevIlya&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Связь
-- Telegram: **@твой_ник**
-- Email: **your@email.com**
+### 📫 Contact Me
+- 💬 Telegram: **@your_username**
+- 📧 Email: **your@email.com**
