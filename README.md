@@ -12,7 +12,7 @@
   <li>🔭 Currently working on: <b>backend systems and API development</b></li>
   <li>🌱 Learning: <b>advanced system design, async programming, cloud technologies</b></li>
   <li>💻 Passionate about: <b>clean architecture, scalable systems, and efficient databases</b></li>
-  <li>⚡ Fun fact: <b>Official FIDE chess player</b></li>
+  <li>⚡ Fun fact: <b>Official FIDE chess player, https://ratings.fide.com/profile/529027756</b></li>
 </ul>
 
 <hr>
