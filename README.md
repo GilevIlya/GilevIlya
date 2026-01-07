@@ -29,7 +29,6 @@
   <img src="https://cdn.simpleicons.org/git" width="36"/>
   <img src="https://cdn.simpleicons.org/postman" width="36"/>
   <img src="https://cdn.simpleicons.org/nginx" width="36"/>
-  <img src="https://cdn.simpleicons.org/amazonaws" width="36"/>
   <img src="https://cdn.simpleicons.org/pydantic" width="36"/>
 
 </p>
