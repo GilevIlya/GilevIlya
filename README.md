@@ -19,7 +19,19 @@
 
 <h3>🛠️ Tech Stack</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,redis,docker,linux,git,postman,nginx,aws" />
+  <img src="https://cdn.simpleicons.org/python" width="36"/>
+  <img src="https://cdn.simpleicons.org/fastapi" width="36"/>
+  <img src="https://cdn.simpleicons.org/postgresql" width="36"/>
+  <img src="https://cdn.simpleicons.org/sqlite" width="36"/>
+  <img src="https://cdn.simpleicons.org/redis" width="36"/>
+  <img src="https://cdn.simpleicons.org/docker" width="36"/>
+  <img src="https://cdn.simpleicons.org/linux" width="36"/>
+  <img src="https://cdn.simpleicons.org/git" width="36"/>
+  <img src="https://cdn.simpleicons.org/postman" width="36"/>
+  <img src="https://cdn.simpleicons.org/nginx" width="36"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" width="36"/>
+  <img src="https://cdn.simpleicons.org/pydantic" width="36"/>
+
 </p>
 
 <hr>
