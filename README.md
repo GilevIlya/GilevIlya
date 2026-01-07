@@ -23,7 +23,7 @@
   <img src="https://cdn.simpleicons.org/fastapi" width="36"/>
   <img src="https://cdn.simpleicons.org/postgresql" width="36"/>
   <img src="https://cdn.simpleicons.org/sqlite" width="36"/>
-  <img src="https://skillicons.dev/icons?i=redis"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="40"/>
   <img src="https://cdn.simpleicons.org/docker" width="36"/>
   <img src="https://cdn.simpleicons.org/linux" width="36"/>
   <img src="https://cdn.simpleicons.org/git" width="36"/>
