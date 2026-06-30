@@ -53,9 +53,5 @@
 </ul>
 
 <p>
-  <i>"Чем старше человек, тем больше ему лет" – Klichko</i>
-</p>
-
-<p>
   <img src="https://komarev.com/ghpvc/?username=GilevIlya&color=green&style=flat" alt="Profile views" />
 </p>
