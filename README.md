@@ -46,12 +46,6 @@
 </ul>
 
 <hr>
-
-<h3> Connect With Me</h3>
-<ul>
-  <li> Telegram: <b>https://t.me/D0vaakhiinn</b></li>
-</ul>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=GilevIlya&color=green&style=flat" alt="Profile views" />
 </p>
