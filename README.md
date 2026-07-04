@@ -1,7 +1,7 @@
 <h1>Hey there, I'm Ilya Gilev</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer,+Backend+Developer.&width=500&height=45&color=432D23&size=22&pause=200">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer,+Backend+Developer.&width=500&height=45&color=8a5238&size=22&pause=200">
 </p>
 
 <hr>
