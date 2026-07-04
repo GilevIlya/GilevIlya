@@ -1,20 +1,13 @@
 <h1>Hey there, I'm Ilya Gilev</h1>
-
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer,+Backend+Developer.&width=500&height=45&color=8a5238&size=22&pause=200">
 </p>
-
 <hr>
 <h3>About Me</h3>
-<ul>
-  <li> Currently working on: <b>backend systems and API development</b></li>
-  <li> Learning: <b>advanced system design, async programming, cloud technologies</b></li>
-  <li> Passionate about: <b>clean architecture, scalable systems, and efficient databases</b></li>
-  <li> Fun fact: <b>Official FIDE chess player, https://ratings.fide.com/profile/529027756</b></li>
-</ul>
-
+<blockquote>
+Backend Python developer with production experience building REST APIs, integrating cloud services, and managing end-to-end deployment. I write clean, testable code organized around solid architecture principles, and take ownership from design through deployment.
+</blockquote>
 <hr>
-
 <h3> Tech Stack</h3>
 <p>
   <img src="https://cdn.simpleicons.org/python" width="36"/>
@@ -28,21 +21,17 @@
   <img src="https://cdn.simpleicons.org/postman" width="36"/>
   <img src="https://cdn.simpleicons.org/nginx" width="36"/>
   <img src="https://cdn.simpleicons.org/pydantic" width="36"/>
-
 </p>
-
 <hr>
-
 <h3> What I Work With</h3>
 <ul>
-  <li>REST APIs with FastAPI</li>
-  <li>Business process automation</li>
-  <li>SQL & NoSQL databases</li>
-  <li>Docker & containerized deployment</li>
-  <li>Authentication & authorization</li>
-  <li>Async Python</li>
+  <li><b>REST APIs with FastAPI</b> — designing routers, services, and repositories with clean layered architecture</li>
+  <li><b>Business process automation</b> — building internal tools and bots to streamline repetitive workflows</li>
+  <li><b>SQL & NoSQL databases</b> — PostgreSQL with SQLAlchemy/Alembic for migrations, Redis for caching and queues</li>
+  <li><b>Docker & containerized deployment</b> — multi-container setups with Docker Compose, Nginx, and SSL via Let's Encrypt</li>
+  <li><b>Authentication & authorization</b> — JWT-based auth flows and access control for production APIs</li>
+  <li><b>Async Python</b> — applying core async/await principles for non-blocking I/O</li>
 </ul>
-
 <hr>
 <p>
   <img src="https://komarev.com/ghpvc/?username=GilevIlya&color=green&style=flat" alt="Profile views" />
