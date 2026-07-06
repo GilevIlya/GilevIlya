@@ -8,20 +8,34 @@
 Backend Python developer with production experience building REST APIs, integrating cloud services, and managing end-to-end deployment. I write clean, testable code organized around solid architecture principles, and take ownership from design through deployment.
 </blockquote>
 <hr>
-<h3> Tech Stack</h3>
-<p>
-  <img src="https://cdn.simpleicons.org/python" width="36"/>
-  <img src="https://cdn.simpleicons.org/fastapi" width="36"/>
-  <img src="https://cdn.simpleicons.org/postgresql" width="36"/>
-  <img src="https://cdn.simpleicons.org/sqlite" width="36"/>
-  <img src="https://skillicons.dev/icons?i=redis" width="40"/>
-  <img src="https://cdn.simpleicons.org/docker" width="36"/>
-  <img src="https://cdn.simpleicons.org/linux" width="36"/>
-  <img src="https://cdn.simpleicons.org/git" width="36"/>
-  <img src="https://cdn.simpleicons.org/postman" width="36"/>
-  <img src="https://cdn.simpleicons.org/nginx" width="36"/>
-  <img src="https://cdn.simpleicons.org/pydantic" width="36"/>
-</p>
+<h3>Tech Stack</h3>
+
+<table>
+<tr>
+<td width="150"><b>Backend</b></td>
+<td>Python 3 · FastAPI · Asyncio · Aiohttp · Aiogram · HTTPX · Pydantic · JWT Authentication</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>PostgreSQL · SQLite · Redis · SQLAlchemy ORM · Alembic · Raw SQL</td>
+</tr>
+
+<tr>
+<td><b>Testing</b></td>
+<td>Pytest · Unit Testing · Integration Testing · Test Design</td>
+</tr>
+
+<tr>
+<td><b>DevOps</b></td>
+<td>Docker · Docker Compose · Nginx · Linux · Git · Uvicorn · SSL Certificates</td>
+</tr>
+
+<tr>
+<td><b>Cloud</b></td>
+<td>AWS S3 (upload, retrieval & access control)</td>
+</tr>
+</table>
 <hr>
 <h3> What I Work With</h3>
 <ul>
